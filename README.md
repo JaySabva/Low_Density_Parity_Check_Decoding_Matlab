@@ -11,3 +11,4 @@ The code plots the probability of successful decoding as a function of the error
 This MATLAB implementation provides a useful tool for studying LDPC decoding performance and understanding the impact of different parameters on the decoding process. It can serve as a valuable resource for researchers and practitioners working with LDPC codes and communication systems.
 
 # GitHub Repository:
+https://github.com/JaySabva/Low_Density_Parity_Check_Decoding_Matlab
